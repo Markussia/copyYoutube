@@ -1,7 +1,7 @@
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 18px;
+    padding: 10px;
 }
 
 .header .logo {
@@ -45,6 +45,52 @@
     align-items: center;
 }
 
+.search-input {
+    position: relative;
+}
+
+.search-input input {
+    padding: 7px;
+    border-radius: 15px 0 0 15px;
+    border: none;
+    width: 350px;
+    padding-left: 10px;
+    background-color: #fff3;
+    color: #fff;
+    font-weight: 500;
+}
+
+.search input::placeholder {
+    color: #ccc;
+}
+
+.search-input span {
+    position: absolute;
+    right: 0;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.search button {
+    background-color: #fff5;
+    color: #ccc;
+    border: none;
+    border-radius: 50%;
+    border-radius: 0 15px 15px 0;
+    margin-left: 0;
+    height: 29px;
+    width: 35px;
+    position: relative;
+    cursor: pointer;
+}
+
+.search span:nth-child(3) {
+    background-color: #fff2;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 10px;
+}
+
 .nav-bar:hover {
     background-color: #ffffff28;
 }
@@ -69,7 +115,33 @@
     background-color: #fff;
 }
 
+.settings {
+    margin-right: 15px;
+    cursor: pointer;
+}
+
 .search-input {
     display: flex;
     align-items: center;
+}
+
+span {
+    color: #ccc;
+}
+
+.signin {
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 100, 255, .4);
+    padding: 3px 7px;
+    border-radius: 15px;
+}
+
+.signin p {
+    color: rgba(0, 100, 255, 1);
+    font-weight: 500;
+}
+
+.signin span {
+    color: rgba(0, 100, 255, 1);
 }
