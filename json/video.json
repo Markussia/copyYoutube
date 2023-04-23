@@ -1,0 +1,43 @@
+[
+	{
+		"videoName":"Сборка ПК",
+		"imgVideo":"https://i.ytimg.com/vi/flqSFKypQqU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeC3Q_DiOHpGOE_ctSvWzGwtxHFw",
+		"avatarCreateYt":"https://yt3.googleusercontent.com/1iT0-kb6Ys1pi5LNyR__W50ubNKvloCcqxrKQSGpOikzxDM11bZJlobv7CUybhRLX02ottFrMVY=s176-c-k-c0x00ffffff-no-rj",
+		"time-video-max":"7:34",
+		"name":"ARSIK",
+		"viewes":"302 тыс. просмотров",
+		"timeLast":"4 годя назад",
+		"linkVideo":"video/sborka-pc.html"
+	},
+	{
+		"videoName":"ASMR Programming - 3D City Coding - No Talking",
+		"imgVideo":"https://i.ytimg.com/vi/v_oCvKprWCc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIhDHipVeZq0PjX1M_qxpiwj4Vww",
+		"avatarCreateYt":"https://yt3.googleusercontent.com/DnF7_67_DOyb5d7O0YPF94SLvLYIn6sAodWonN2BnfVHnFPQKS41qNetPkugplbEGP6g3cRRl5I=s176-c-k-c0x00ffffff-no-rj",
+		"time-video-max":"33:28",
+		"name":"AsmrProg",
+		"viewes":"29 тыс. просмотров",
+		"timeLast":"2 недели назад",
+		"linkVideo":"video/asmr-programming.html"
+	},
+	{
+		"videoName":"ИГРАЮ ТОЛЬКО С НЕГЕВОМ ft. Dmitry Lixxx (CS:GO)",
+		"imgVideo":"https://i.ytimg.com/vi/2nFEkpyuq0Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc5CGovZHXFVIkis_cE9W0SC6UXg",
+		"avatarCreateYt":"https://yt3.googleusercontent.com/ytc/AGIKgqNtnR6G6iGi5WCT_vKfl9HnD5_10x3zJpmpHKICeg=s176-c-k-c0x00ffffff-no-rj",
+		"time-video-max":"21:31",
+		"name":"ШАРФ",
+		"viewes":"846 тыс. просмотров",
+		"timeLast":"2 годя назад",
+		"linkVideo":"video/igraiu-tolko-s-negewom.html"
+	},
+	{
+		"videoName":"Что такое Docker?",
+		"imgVideo":"https://i.ytimg.com/vi/aZTL2zRmOnA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA18jicIVpvRm5v9cSaCkTCKNLdtA",
+		"avatarCreateYt":"https://yt3.googleusercontent.com/tFFW21uMfFNTJtgBIbIssHtfhLtY1KfRZUmMWFEPCFqKsPynyzg2S1j6TzR8M1pa-jjWUyg8zw=s176-c-k-c0x00ffffff-no-rj",
+		"time-video-max":"6:49",
+		"name":"Merion Academy",
+		"viewes":"1 458 просмотров",
+		"timeLast":"23 апр. 2023г",
+		"linkVideo":"video/chto-takoe-docker.html"
+	}
+
+]

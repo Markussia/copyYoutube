@@ -4,6 +4,10 @@
     padding: 10px;
 }
 
+.material-icons{
+    color: #fff;
+}
+
 .header .logo {
     display: flex;
     align-items: center;
@@ -40,6 +44,13 @@
     cursor: pointer;
 }
 
+.down-nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .search {
     display: flex;
     align-items: center;
@@ -50,7 +61,7 @@
 }
 
 .search-input input {
-    padding: 7px;
+    padding: 10px;
     border-radius: 15px 0 0 15px;
     border: none;
     width: 350px;
@@ -78,8 +89,8 @@
     border-radius: 50%;
     border-radius: 0 15px 15px 0;
     margin-left: 0;
-    height: 29px;
-    width: 35px;
+    height: 35px;
+    width: 55px;
     position: relative;
     cursor: pointer;
 }
